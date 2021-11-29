@@ -1,4 +1,4 @@
-### Hi 👋 i'm donguk071
+### Hi 👋 i'm donguk Kim
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donguk071&&show_icons=true&theme=calm)
 
