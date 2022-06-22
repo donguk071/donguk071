@@ -6,7 +6,7 @@
   
   <h3>Introduction</h3>
     
-  <p>🌱 I’m currently learning TensorFlow and Flutter</p>
+  <p>i'm college students interested in AI</p>
   
 <br/>
   
@@ -30,11 +30,12 @@
 
 <br/>
 
-<h3>Contact</h3>       
+<h3>  💻 Contact</h3>       
 
 <p>
-not yet.........
-</p>
+<!--   <a href="https://www.kaggle.com/dolphinkr" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a> -->
+  <a href="mailto:dragon071@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+</p><br>
 
 </div>
 <!--
