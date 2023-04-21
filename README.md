@@ -11,7 +11,15 @@
 <br/>
   
 <h3>Tech Stack</h3>
-<!-- <p>
+
+  Part | Tech Stack | Environment
+---|---|---
+Simulation | Unreal Engine | C++, Blueprints
+DeepLearning | Tensorflow | Python
+ComputerVision | openCV | Python ,C++
+AR/ VR| Three.js, Panda3D | Python, JavaScript
+
+  <!-- <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
@@ -20,10 +28,12 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 </p> -->
+  
 <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donguk071&&show_icons=true&theme=calm)
+  
 <!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donguk071&&show_icons=true&theme=calm)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dragon071)](https://solved.ac/dragon071)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donguk071&layout=compact&theme=calm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
