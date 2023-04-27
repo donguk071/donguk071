@@ -39,9 +39,9 @@ AR/ VR| Three.js, Panda3D | Python, JavaScript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donguk071&layout=compact&theme=calm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <br/>
-
+<!-- 
 <h3>  💻 Contact</h3>       
-
+ -->
 <p>
 <!--   <a href="https://www.kaggle.com/dolphinkr" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a> -->
   <a href="mailto:dragon071@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
