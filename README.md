@@ -44,8 +44,8 @@ AR/ VR| Three.js, Panda3D | Python, JavaScript
  -->
 <p>
 <!--   <a href="https://www.kaggle.com/dolphinkr" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a> -->
-  <a href="mailto:dragon071@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
-</p><br>
+<!--   <a href="mailto:dragon071@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+</p><br> -->
 
 </div>
 <!--
