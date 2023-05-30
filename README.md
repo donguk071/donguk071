@@ -7,7 +7,7 @@
   <h3>Introduction</h3>
     
   <p>Studying Computer Vision and DeepLearning</p>
-  <p>you can check my [CV here](....)</p>
+  <p>you can check my [CV here](https://github.com/donguk071/CV/blob/main/CV_donguk.pdf)</p>
   
   
 <br/>
