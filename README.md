@@ -6,7 +6,9 @@
   
   <h3>Introduction</h3>
     
-  <p>i'm college students interested in AI</p>
+  <p>Studying Computer Vision and DeepLearning</p>
+  <p>you can check my [CV here](....)</p>
+  
   
 <br/>
   
