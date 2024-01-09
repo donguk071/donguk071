@@ -16,7 +16,7 @@ If you want more detail you can check my [CV here](https://github.com/donguk071/
 - 🏆Competiton for OCR signage image recognition (🎖️ 1st)
 - 📚VR : Boat driving simulation with UE5 
 - 📚AR : Three.js with Mediapipe(getting mesh from face, Real time rigging avater)[github](https://github.com/donguk071/three.js-with-mediapipe)
-- 📄Paper : [Synthesized training data for a ship 3D surrounding view learning model based on user evalutions](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229776)(1st author)
+- 📄Paper : Synthesized training data for a ship 3D surrounding view learning model based on user evalutions [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229776)(1st author)
 
 ### Education
 
