@@ -12,7 +12,7 @@ If you want more detail you can check my [CV here](https://github.com/donguk071/
 ### Expierence overview
 
 - 📚Distortion-free SVM generation for boat using UE5 and our synthetic dataset(with Avikus,🥈 2nd)[[github](https://github.com/donguk071/UE_SensorSimulator)]
-- 📚Coverist: Book Cover Generator service (🥉 3rd)[[pdf](https://drive.google.com/file/d/1nbu6ic5ASZqpTe32ABQ5ZnXLurxdcGn7/view)],[[github]()] 
+- 📚Coverist: Book Cover Generator service (🥉 3rd) [[pdf](https://drive.google.com/file/d/1nbu6ic5ASZqpTe32ABQ5ZnXLurxdcGn7/view),[github]()] 
 - 🏆Competiton for OCR signage image recognition (🎖️ 1st)
 - 📚VR : Boat driving simulation with UE5 
 - 📚AR : Three.js with Mediapipe(getting mesh from face, Real time rigging avater)[github](https://github.com/donguk071/three.js-with-mediapipe)
@@ -20,8 +20,9 @@ If you want more detail you can check my [CV here](https://github.com/donguk071/
 
 ### Education
 
-- Kwangwoon Univ[DIGlab](https://korfriend.github.io/) BS candidate(21.07~24.02)
-- Unist [VIPlab](https://vip.unist.ac.kr/ko/)  MS candidate(24.03~)
+- Unist : MS candidate in [VIPlab](https://vip.unist.ac.kr/ko/) (24.03~)
+- Qualcomm Institute,UCSD : International colaborate Research Intern (23.07~23.08)
+- Kwangwoon Univ : BS candidate in [DIGlab](https://korfriend.github.io/)(21.07~24.02)
 
 # Tech Stack
 💪Strong<br><br>
