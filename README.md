@@ -49,8 +49,8 @@ If you want more detail you can check my [CV here](https://github.com/donguk071/
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=Google-Cloud&logoColor=white"/>
 </span>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=donguk071&count_private=true&show_icons=true&theme=solarized-light)
 <!-- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=donguk071&count_private=true&show_icons=true&theme=solarized-light)
 💬 language<br><br>
 <span>
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor=white"/>
