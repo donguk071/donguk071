@@ -1,4 +1,4 @@
-#   Hi👋 i'm donguk
+#   Hi👋 I'm donguk
 
 Welcome to my profile! This is an overview of my activities. You can see what I did and what I'm planning to do. My major interest lies in the field of 3D Computer Vision. Recently, I am deeply diving into the few-shot NeRF research. If you have any questions for our lab or me, please feel free to contact me through [email](dragon071@naver.com).
 
