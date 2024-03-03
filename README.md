@@ -12,9 +12,9 @@ If you want more detail you can check my [CV here](https://github.com/donguk071/
 ### Expierence overview
 
 - 📚Distortion-free SVM generation for boat using UE5 and our synthetic dataset(with Avikus,🥈 2nd)[[github](https://github.com/donguk071/UE_SensorSimulator)]
-- 📚Greedot : Creating meta charactor from child drawings(🎖️ 1st)[[github](https://github.com/donguk071/greedot),[SKT fly ai]()]
+- 📚Greedot : Creating meta charactor from child drawings(🎖️ 1st)[[github](https://github.com/donguk071/greedot),[SKT Fly Ai]()]
 - 📚Coverist: Book Cover Generator service (🥉 3rd) [[pdf](https://drive.google.com/file/d/1nbu6ic5ASZqpTe32ABQ5ZnXLurxdcGn7/view),[github]()]
-- 🏆Competiton for OCR signage image recognition (🎖️ 1st, Minister's Award)
+- 🏆Competiton for OCR signage image recognition (🎖️ 1st : Minister's Award)
 - 📚VR : Boat driving simulation with UE5 
 - 📚AR : Three.js with Mediapipe(getting mesh from face, Real time rigging avater)[github](https://github.com/donguk071/three.js-with-mediapipe)
 - 📄Paper : Synthesized training data for a ship 3D surrounding view learning model based on user evalutions [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229776)(1st author)
