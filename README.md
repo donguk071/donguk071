@@ -5,19 +5,31 @@ Welcome to my profile! This is an overview of my activities. You can see what I 
 
 ### Introduction
     
-I'm studying Computer Vision, DeepLearning and Graphics in [VIPlab]()
+I'm studying Computer Vision, DeepLearning and Graphics in [VIPlab](https://vip.unist.ac.kr/)
 
-If you want more detail you can check my [CV here](https://github.com/donguk071/CV/blob/main/CV_donguk_230704.pdf). And also you can visit my [techblog](https://donguk071.github.io/)
+If you want more detail you can check my [CV here](https://github.com/donguk071/CV). And also you can visit my [techblog](https://donguk071.github.io/)
 
-### Expierence overview
+### International Paper
+- 📄[ICLR 2026 under reivew✨]Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing(1st author)
+- 📄[NeurIPS 2025✨]Dataset Distillation of 3D Point Clouds via Distribution Matching [link](https://github.com/donguk071/SADM)(1st author)
+- 📄[ICIP-W]Class-Aware Coreset Selection for 3D Point Clouds Classification(2nd author)
+  
+### Domestic Paper
+- 📄[IPIU]Controllable Classification via Negative-Context-Aware Learning(2nd author)
+- 📄[IEIE]Enhancing Quality of Gaussian Splatting in Few Shot Condition by Multi-Scale Augmentatio(1st author)
+- 📄[HCI]Synthesized training data for a ship 3D surrounding view learning model based on user evalutions [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229776)(1st author)
 
-- 📚Distortion-free SVM generation for boat using UE5 and our synthetic dataset(with Avikus,🥈 2nd)[[github](https://github.com/donguk071/UE_SensorSimulator)]
-- 📚Greedot : Creating meta charactor from child drawings(🎖️ 1st)[[github](https://github.com/donguk071/greedot),[SKT Fly Ai]()]
-- 📚Coverist: Book Cover Generator service (🥉 3rd) [[pdf](https://drive.google.com/file/d/1nbu6ic5ASZqpTe32ABQ5ZnXLurxdcGn7/view),[github]()]
+
+
+### Expierence
+
+- 🏆2025 Samsung AI Challenge✨ : AI Co-Scientist, Train with Agent(🥈 2nd)[[github](https://github.com/donguk071/greedot)]
+- 🏆Greedot✨ : Creating meta charactor from child drawings(🎖️ 1st)[[github](https://github.com/donguk071/greedot),[SKT Fly Ai]()]
+- 📚Distortion-free SVM generation for boat using UE5 and our synthetic dataset✨(with Avikus,🥈 2nd)[[github](https://github.com/donguk071/UE_SensorSimulator)]
+- 🏆Coverist: Book Cover Generator service (🥉 3rd) [[pdf](https://drive.google.com/file/d/1nbu6ic5ASZqpTe32ABQ5ZnXLurxdcGn7/view),[github]()]
 - 🏆Competiton for OCR signage image recognition (🎖️ 1st : Minister's Award)
 - 📚VR : Boat driving simulation with UE5 
 - 📚AR : Three.js with Mediapipe(getting mesh from face, Real time rigging avater)[github](https://github.com/donguk071/three.js-with-mediapipe)
-- 📄Paper : Synthesized training data for a ship 3D surrounding view learning model based on user evalutions [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229776)(1st author)
 
 ### Education
 
